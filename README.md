@@ -7,7 +7,7 @@
 
 ## Tecnologias que uso:
 <div style="display:inline_block">
-  <img align="center" alt="Amad3u" height="50" width="450" src="https://skills.thijs.gg/icons?i=angular,java,mysql,git">
+  <img align="center" alt="Amad3u" height="50" width="450" src="https://skills.thijs.gg/icons?i=angular,java,mysql,git,postgresql">
 </div>
 <hr/>
 <hr/>
