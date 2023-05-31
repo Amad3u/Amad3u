@@ -10,7 +10,6 @@
   <img align="center" alt="Amad3u" height="50" width="450" src="https://skills.thijs.gg/icons?i=angular,java,mysql,git,postgresql">
 </div>
 <hr/>
-<hr/>
 <div>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Amad3u&theme=tokyo-night&hide_border=true" /></a>
 </div>
